@@ -27,7 +27,8 @@ argument must be either `enc` or `dec`, without the braces {}.
 2. Requires at least one (-data or -in).
 3. If there are both -data and -in arguments, the program prefers -data over -in.
 ___
-### Usage examples
+### Usage examples ###
+
 #### Example 1 - encryption with the shift algorithm (by default), output to console 
 *Command:*
 ```
